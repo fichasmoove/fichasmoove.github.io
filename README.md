@@ -8,3 +8,5 @@ Protótipo do app de fichas de treino da academia Moove Wellness.
 Demonstração: os dados são de exemplo e ficam salvos apenas no aparelho de quem acessa.
 
 Site: https://fichasmoove.github.io
+
+Publicado via GitHub Pages.
